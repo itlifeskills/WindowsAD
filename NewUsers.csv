@@ -1,0 +1,50 @@
+﻿FirstName,MiddleName,LastName,Description,Office,PhoneNumber,Country,Department,JobTitle,Manager
+Edward,Garrett,Hernandez,10/30/2019,Aurora,713-485-5555,US,Accounting and Finance,Sr. Accountant Manager,Ryan Brown
+Angel,,Stewart,10/30/2019,Aurora,713-485-5556,US,Accounting and Finance,Finance Analyst,Edward Hernandez
+Cameron,Ashley,Rodriguez,10/30/2019,Aurora,713-485-5557,US,Accounting and Finance,Accountant,Edward Hernandez
+Peter,Ronald,Nara,10/30/2019,Aurora,713-485-5558,US,Accounting and Finance,Accountant,Edward Hernandez
+Theodore,Jon,Diaz,10/30/2019,Aurora,713-485-5559,US,Accounting and Finance,Accountant,Edward Hernandez
+Christine,Ruth,Nara,10/30/2019,Aurora,713-485-5560,US,Art and Design,Art and Design Manager,Ryan Brown
+Latoya,Jamie,Shen,10/30/2019,Aurora,713-485-5561,US,Art and Design,UX design,Christine Nara
+Stephanie,Angela,Cox,10/30/2019,Aurora,713-485-5562,US,Art and Design,UX design,Christine Nara
+Joshua,Hunter,Lee,10/30/2019,Aurora,713-485-5563,US,Art and Design,Backend UI design,Christine Nara
+Dalton,,Wood,10/30/2019,Aurora,713-485-5564,US,Art and Design,Animation design,Christine Nara
+Clayton,Sarah,Shan,10/30/2019,Aurora,713-485-5565,US,Content and Review ,Content and Review Manager,Ryan Brown
+Paige,Mason,Peterson,10/30/2019,Aurora,713-485-5566,US,Content and Review,Content creator,Clayton Shan
+Dalton,Jeremiah,Hill,10/30/2019,Aurora,713-485-5567,US,Content and Review,Content creator,Clayton Shan
+Johnathan,,Srini,10/30/2019,Aurora,713-485-5568,US,Content and Review,Content creator,Clayton Shan
+Beth,Willie,Ruiz,10/30/2019,Aurora,713-485-5569,US,Content and Review,Content creator,Clayton Shan
+Rachel,Robert,Davis,10/30/2019,Aurora,713-485-5570,US,Content and Review,Content creator,Clayton Shan
+Dustin,Rebecca,Nath,10/30/2019,Aurora,713-485-5571,US,Content and Review,Content creator,Clayton Shan
+Chloe,,Reed,10/30/2019,Aurora,713-485-5572,US,Content and Review,Content editor,Clayton Shan
+Ryant,,Brown,10/30/2019,Aurora,713-485-5573,US,Humance Resources,CEO ,N/A
+Pamela,Kristen,Srini,10/30/2019,Aurora,713-485-5574,US,Humance Resources,HR Specialist ,Ryan Brown
+Devin,,Hernandez,10/30/2019,Aurora,713-485-5575,US,Humance Resources,HR Specialist ,Ryan Brown
+Jerry,Heidi,Shen,10/30/2019,Aurora,713-485-5576,US,Humance Resources,HR Specialist ,Ryan Brown
+Wayne,Kelvin,Chande,10/30/2019,Aurora,713-485-5577,US,Humance Resources,HR Specialist ,Ryan Brown
+Katelyn,Destiny,Adams,10/30/2019,Aurora,713-485-5578,US,Information Technology,Service Desk Manager,Ryan Brown
+Cassie,Jasmine,Kennedy,10/30/2019,Aurora,713-485-5579,US,Information Technology,Service Desk,Katelyn Adams
+Kimberly,Alfredo,Kelly,10/30/2019,Elgine,713-485-5580,US,Information Technology,Service Desk,Katelyn Adams
+Madeline,Destiny,Phillips,10/30/2019,Aurora,713-485-5581,US,Marketing,Social Media Manager,Ryan Brown
+Kristy,Victoria,Hernandez,10/30/2019,Aurora,713-485-5582,US,Marketing,Marketing Professional,Madeline Phillips
+Ashley,Jennifer,Wood,10/30/2019,Aurora,713-485-5583,US,Marketing,Content Markerting Specialist,Madeline Phillips
+Donald,Aaron,McDonald,10/30/2019,Aurora,713-485-5584,US,Marketing,Markerting Assistant ,Madeline Phillips
+Kari,Justin,Hernandez,10/30/2019,Aurora,713-485-5585,US,Marketing,Product Marketing Assistant,Madeline Phillips
+Kristopher,,Kapoor,10/30/2019,Elgine,713-485-5586,US,Operations,Operation Manager,Ryan Brown
+Alex,Edgar,Allen,10/30/2019,Elgine,713-485-5587,US,Operations,Operation specialist,Kristopher Kapoor
+Sara,Melanie,Young,10/30/2019,Elgine,713-485-5588,US,Operations,Operation specialist,Kristopher Kapoor
+Brent,Eddie,Wang,10/30/2019,Elgine,713-485-5589,US,Operations,Operation specialist,Kristopher Kapoor
+Karl,,Xie,10/30/2019,Elgine,713-485-5590,US,Operations,Operation specialist,Kristopher Kapoor
+Lee,Kaitlyn,Romero,10/30/2019,Elgine,713-485-5591,US,Operations,Operation specialist,Kristopher Kapoor
+Joseph,,Smith,10/30/2019,Elgine,713-485-5592,US,Operations,Operation specialist,Kristopher Kapoor
+Luis,Holly,Hall,10/30/2019,Elgine,713-485-5593,US,Operations,Operation specialist,Kristopher Kapoor
+Colleen,Bradley,Lin,10/30/2019,Elgine,713-485-5594,US,Operations,Operation specialist,Kristopher Kapoor
+Darryl,,He,10/30/2019,Elgine,713-485-5595,US,Operations,Operation specialist,Kristopher Kapoor
+Alexis,Misty,Flores,10/30/2019,Elgine,713-485-5596,US,Operations,Operation specialist,Kristopher Kapoor
+Renee,Autumn,Gill,10/30/2019,Elgine,713-485-5597,US,Operations,Operation specialist,Kristopher Kapoor
+Bianca,,Hu,10/30/2019,Elgine,713-485-5598,US,Operations,Operation specialist,Kristopher Kapoor
+Abigail,Jared,Peterson,10/30/2019,Elgine,713-485-5599,US,Operations,Sr. Operation specialist,Kristopher Kapoor
+Javier,Gabriella,Ramos,10/30/2019,Elgine,713-485-5600,US,Operations,Sr. Operation specialist,Kristopher Kapoor
+George,James,Rana,10/30/2019,Elgine,713-485-5601,US,Research and Development,Product Engineering,Ryan Brown
+Wayne,,Nara,10/30/2019,Elgine,713-485-5602,US,Research and Development,Data Scentist ,Ryan Brown
+Brittney,Gregory,Cai,10/30/2019,Elgine,713-485-5603,US,Research and Development,Research Assistant ,Ryan Brown
